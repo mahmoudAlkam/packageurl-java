@@ -745,6 +745,7 @@ public final class PackageURL implements Serializable {
         public static final String RPM = "rpm";
         public static final String NIXPKGS = "nixpkgs";
         public static final String HACKAGE = "hackage";
+        public static final String CRAN = "cran"; 
     }
 
 }
